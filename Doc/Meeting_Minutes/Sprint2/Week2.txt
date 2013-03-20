@@ -1,0 +1,6 @@
+From Feb.27th To Mar.6th
+1. Create a seperate folder for weekly meeting minutes;
+2. Learn the rules how to merge the conficts for different branches;
+3. Access each others' GitHub projects, try to do add/modify/commit;
+4. Install Git client on Mac OS, could push/pull between local PC and GitHub;
+5. Commit HelloWorld from Mac to GitHub server;
