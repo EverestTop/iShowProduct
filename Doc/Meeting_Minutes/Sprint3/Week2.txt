@@ -1,1 +1,17 @@
-time
+From Mar.21st to Mar.28th
+
+Allen:
+1.iShowProduct testing project Beginning. Plan to finish 30~40%. 
+-->??? Pls list what exactly you will do! not percent;
+-->If this task is too large, pls split it into several small items;
+2.GitHub starts running. Pull, push and merge testing project in repo EverestTop.
+3.Learning Beginning iOS 6 Development Chapter 2~3.
+-->What's the output? 
+-->How to prove you really complete it?
+-->could you pls share something after learn this part?
+
+Alex:
+1. Update Xcode from 4.0 to 4.6;
+2. Start to learn Objective C, create the first HelloWorld;
+3. Add image into the whole project;
+4. [Stretch goal] Add multiple image view into the app;
