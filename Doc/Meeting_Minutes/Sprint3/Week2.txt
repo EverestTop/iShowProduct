@@ -2,13 +2,14 @@ From Mar.21st to Mar.28th
 
 Allen:
 1.iShowProduct testing project Beginning. Plan to finish 30~40%. 
--->??? Pls list what exactly you will do! not percent;
+-->??? Pls list what exactly you will do! not percent;-->Allen:An app that can show images.
 -->If this task is too large, pls split it into several small items;
 2.GitHub starts running. Pull, push and merge testing project in repo EverestTop.
 3.Learning Beginning iOS 6 Development Chapter 2~3.
 -->What's the output? 
 -->How to prove you really complete it?
 -->could you pls share something after learn this part?
+-->Allen:For the three points above, I will discuss with you by the time.
 
 Alex:
 1. Update Xcode from 4.0 to 4.6;
