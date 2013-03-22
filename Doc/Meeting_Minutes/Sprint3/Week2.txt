@@ -16,3 +16,5 @@ Alex:
 2. Start to learn Objective C, create the first HelloWorld;
 3. Add image into the whole project;
 4. [Stretch goal] Add multiple image view into the app;
+
+2nd Branch
