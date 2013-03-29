@@ -3,6 +3,7 @@ From Mar.21st to Mar.28th
 Allen:
 1.iShowProduct testing project Beginning. Plan to finish 30~40%. 
 -->??? Pls list what exactly you will do! not percent;-->Allen:An app that can show images.
+comments: An app named 'iShowProductAllen' is committed to \Test\Allen_Starter\. This project contains a Image View control which shows a image file.
 -->If this task is too large, pls split it into several small items;
 2.GitHub starts running. Pull, push and merge testing project in repo EverestTop.
 3.Learning Beginning iOS 6 Development Chapter 2~3.
@@ -16,5 +17,3 @@ Alex:
 2. Start to learn Objective C, create the first HelloWorld;
 3. Add image into the whole project;
 4. [Stretch goal] Add multiple image view into the app;
-
-2nd Branch
