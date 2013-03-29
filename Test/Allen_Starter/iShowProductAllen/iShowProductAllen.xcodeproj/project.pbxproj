@@ -18,6 +18,7 @@
 		A490F66017052BAF003979A6 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A490F65F17052BAF003979A6 /* Default-568h@2x.png */; };
 		A490F66317052BAF003979A6 /* AAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A490F66217052BAF003979A6 /* AAViewController.m */; };
 		A490F66617052BAF003979A6 /* AAViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A490F66417052BAF003979A6 /* AAViewController.xib */; };
+		A490F66D17052C40003979A6 /* DSC_0328.png in Resources */ = {isa = PBXBuildFile; fileRef = A490F66C17052C40003979A6 /* DSC_0328.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		A490F66117052BAF003979A6 /* AAViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AAViewController.h; sourceTree = "<group>"; };
 		A490F66217052BAF003979A6 /* AAViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AAViewController.m; sourceTree = "<group>"; };
 		A490F66517052BAF003979A6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/AAViewController.xib; sourceTree = "<group>"; };
+		A490F66C17052C40003979A6 /* DSC_0328.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DSC_0328.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		A490F65017052BAF003979A6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A490F66C17052C40003979A6 /* DSC_0328.png */,
 				A490F65117052BAF003979A6 /* iShowProductAllen-Info.plist */,
 				A490F65217052BAF003979A6 /* InfoPlist.strings */,
 				A490F65517052BAF003979A6 /* main.m */,
@@ -164,6 +167,7 @@
 				A490F65E17052BAF003979A6 /* Default@2x.png in Resources */,
 				A490F66017052BAF003979A6 /* Default-568h@2x.png in Resources */,
 				A490F66617052BAF003979A6 /* AAViewController.xib in Resources */,
+				A490F66D17052C40003979A6 /* DSC_0328.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    //UIImage *firstImage = [[UIImage alloc] initWithContentsOfFile:@"DSC_0328.png"];
+    //[self.imageShow initWithImage:firstImage];
 }
 
 - (void)didReceiveMemoryWarning
