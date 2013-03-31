@@ -5,3 +5,7 @@ Allen:
 2.Plan to run app on iPad in next meeting.
 
 Alex:
+1. Update Xcode from 4.0 to 4.6;
+--> Done, copy Mac os X 10.8 from Allen[2013-03-29];
+2. Start to learn Objective C, create the first HelloWorld;
+3. Add image into the whole project;
