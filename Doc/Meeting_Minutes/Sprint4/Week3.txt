@@ -8,4 +8,6 @@ Alex:
 1. Update Xcode from 4.0 to 4.6;
 --> Done, copy Mac os X 10.8 from Allen[2013-03-29];
 2. Start to learn Objective C, create the first HelloWorld;
+-->[2013-04-01] Knew the basic for define a class in Objective C using:@interface/@end and @implementation/@end;
+-->[2013-04-01] Knew the creation and initialization of a basic object using messaging and alloc/init method;
 3. Add image into the whole project;
