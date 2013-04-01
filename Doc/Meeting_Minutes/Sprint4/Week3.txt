@@ -10,4 +10,5 @@ Alex:
 2. Start to learn Objective C, create the first HelloWorld;
 -->[2013-04-01] Knew the basic for define a class in Objective C using:@interface/@end and @implementation/@end;
 -->[2013-04-01] Knew the creation and initialization of a basic object using messaging and alloc/init method;
+-->[2013-04-01] Completed Learning Objective C 2.0 Chapter3;
 3. Add image into the whole project;
