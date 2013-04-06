@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'Alex_StarterTests' target in the 'Alex_StarterTests' project
-//
-
-#ifdef __OBJC__
-    #import <UIKit/UIKit.h>
-#endif
