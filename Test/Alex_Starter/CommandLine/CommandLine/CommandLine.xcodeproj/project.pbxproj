@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A42C0F5E1711B6CA007C5CDD /* Greeter.m in Sources */ = {isa = PBXBuildFile; fileRef = A42C0F5D1711B6CA007C5CDD /* Greeter.m */; };
 		A4F4CAB41710797A00C77B42 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4F4CAB31710797A00C77B42 /* Foundation.framework */; };
 		A4F4CAB71710797A00C77B42 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A4F4CAB61710797A00C77B42 /* main.m */; };
 		A4F4CABB1710797A00C77B42 /* CommandLine.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = A4F4CABA1710797A00C77B42 /* CommandLine.1 */; };
@@ -26,6 +27,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A42C0F5C1711B6CA007C5CDD /* Greeter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Greeter.h; sourceTree = "<group>"; };
+		A42C0F5D1711B6CA007C5CDD /* Greeter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Greeter.m; sourceTree = "<group>"; };
 		A4F4CAB01710797A00C77B42 /* CommandLine */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CommandLine; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4F4CAB31710797A00C77B42 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A4F4CAB61710797A00C77B42 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -76,6 +79,8 @@
 				A4F4CAB61710797A00C77B42 /* main.m */,
 				A4F4CABA1710797A00C77B42 /* CommandLine.1 */,
 				A4F4CAB81710797A00C77B42 /* Supporting Files */,
+				A42C0F5C1711B6CA007C5CDD /* Greeter.h */,
+				A42C0F5D1711B6CA007C5CDD /* Greeter.m */,
 			);
 			path = CommandLine;
 			sourceTree = "<group>";
@@ -140,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4F4CAB71710797A00C77B42 /* main.m in Sources */,
+				A42C0F5E1711B6CA007C5CDD /* Greeter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +246,7 @@
 				A4F4CAC01710797A00C77B42 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
