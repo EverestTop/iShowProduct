@@ -24,7 +24,7 @@
 
 - (void) printGreeting
 {
-    NSLog(@"%@", [self greetingText]);
+    NSLog( @"%@", greetingText);
     return;
 }
 
