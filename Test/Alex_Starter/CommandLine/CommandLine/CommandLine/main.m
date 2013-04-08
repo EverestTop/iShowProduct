@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Greeter.h"
 
 int main(int argc, const char * argv[])
 {
@@ -15,6 +16,11 @@ int main(int argc, const char * argv[])
         
         // insert code here...
         NSLog(@"Hello, World!");
+        Greeter* myGreeter = [[Greeter alloc] init];
+        
+        [myGreeter setGreetingText: @"Fuck you, again and again!"];
+        [myGreeter printGreeting];
+        [myGreeter release];
         
     }
     return 0;
