@@ -1,0 +1,7 @@
+From April.10th to April.18
+
+Allen:
+1.Learning Beginning iOS 6 Development Chapter 7,8. I think I should keep on learning iOS.
+2.Alex is right, Building a app for practice is fine. So in this sprint, I aim to finish a app with multi imageViews，which will let users switch images.
+
+Alex:
