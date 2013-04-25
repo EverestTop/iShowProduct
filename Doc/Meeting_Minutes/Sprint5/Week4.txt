@@ -5,3 +5,5 @@ Allen:
 2.Alex is right, Building a app for practice is fine. So in this sprint, I aim to finish a app with multi imageViews，which will let users switch images.
 
 Alex:
+1. Learn the Chapter 5 Messaging of Objective-C 2.0;
+2. Learn the Chapter 1 of iOS 6 Programming;
