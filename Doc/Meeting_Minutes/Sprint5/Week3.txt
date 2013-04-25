@@ -1,2 +1,4 @@
-Week3:
-
+Week3: From April 25th to May 1st
+Alex:
+1. Learn the Chapter 1 The Basics of iOS 6 programming;
+2. Learn the Chapter 6 Classes and Object of Objectiv-C 2.0;
