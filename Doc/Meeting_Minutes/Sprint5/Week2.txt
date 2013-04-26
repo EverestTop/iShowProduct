@@ -1,3 +1,7 @@
 Week2: From April 18th to 24th
 
+Allen
+1.Learn Beginning iOS6 Development Chapter 9. This chapter is on navigation app.
+--Done
+
 
